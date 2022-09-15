@@ -1,5 +1,3 @@
-import React from "react";
-
 const GifItem = ({ title, url }) => {
   console.log(title, url);
   return (
